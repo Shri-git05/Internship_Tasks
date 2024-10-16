@@ -1,3 +1,6 @@
+This is an implementation of Detection and Recognition. The data given is a file that contains trivial objects like human face, chair, cell phone , book,etc.
+The implementation is basic one and the data was provided by my Centre of Excellance Faculty.
+
 import cv2
 import numpy as np
 
