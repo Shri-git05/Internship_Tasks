@@ -1,3 +1,5 @@
+#The implementation of the famous game tic-tac-toe, here AI does not let me win. The constants.py file contains all constants used.
+
 import sys 
 import pygame
 import numpy as np
